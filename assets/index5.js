@@ -1,5 +1,9 @@
-let firstNumber = +prompt("Donnez votre premier chiffre");
-let secondNumber = +prompt("Donnez votre second chiffre");
-let resultSum = firstNumber + secondNumber;
+let x = prompt("Donnez votre premier chiffre");
+let y = prompt("Donnez votre second chiffre");
+// x=Number(x);
+// y=Number(y);
+// x=parseInt(x);
+// y=parseInt(y);
+let z = Number(x) + Number(y);
 
-console.log(`Le résultat de l'addition de ${firstNumber} et ${secondNumber} est :${resultSum}`); 
+console.log(`Le résultat de l'addition de ${x} et ${y} est :${z}`); 

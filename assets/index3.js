@@ -1,5 +1,6 @@
-let varName = "Jean"
-let varAge = "30"
-let varCity ="Paris"
+let firstname = "Jean"
+let age = "30"
+let city ="Paris"
 
-alert ("Bonjour, je m'appelle"+" "+varName+" "+"j'ai"+" "+varAge+" "+"et j'habite"+" "+varCity)
+
+alert(`Bonjour, je m'appelle ${firstname} j'ai ${age} et j'habite ${city}`);
