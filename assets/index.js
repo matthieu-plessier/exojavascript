@@ -1,4 +1,2 @@
-var bonjour
-{
-    alert ("bonjour")
-}
+let message = "bonjour"
+alert (message)
