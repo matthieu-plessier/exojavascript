@@ -1,8 +1,12 @@
-let age = prompt("Quel est votre âge");
-
-if (age>=18) {
-    alert("Vous êtes majeur")
-    
-} else {
-    alert ("Vous êtes mineur")
+let age = Number (prompt("Quel est votre âge"));
+if (age<0 || age>120) {
+    alert ("Votre age est incorrect.")
+    else {
+}
+    if (age>=18) {
+        alert("Vous êtes majeur")
+        
+    } else {
+        alert ("Vous êtes mineur")
+    }
 }
