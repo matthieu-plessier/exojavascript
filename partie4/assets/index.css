@@ -1,0 +1,9 @@
+form {
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid rgb(15, 14, 14);
+    border-radius: 1em;
+    background-color: rgb(192, 164, 164);
+}
