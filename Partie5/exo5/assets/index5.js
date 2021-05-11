@@ -1,7 +1,7 @@
 let text = document.getElementById("text")
 
 let rose = document.getElementById("rose");
-let blue = document.getElementById("blue");
+let blue = document.getElementById("blue"); 
 let violet = document.getElementById("violet");
 let bold = document.getElementById("bold")
 let italic = document.getElementById("italic")
