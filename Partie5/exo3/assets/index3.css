@@ -1,0 +1,18 @@
+form {
+    display:table;
+    text-align: center;
+    background-color: rgb(136, 204, 136);
+}
+label,
+input {
+    
+    display: table-cell;
+    margin-bottom: 10px;
+}
+label {
+    padding-right: 20px;
+}
+.wrongName {
+    display: none;
+    color: red;
+}
